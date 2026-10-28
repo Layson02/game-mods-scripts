@@ -1,6 +1,6 @@
 # 🎮 Game Mods and Scripts
 
-[Ler em Português](#-mods-e-scripts-para-jogos)
+**🌐 [Ler em Português](#-mods-e-scripts-para-jogos)**
 
 ## 🎯 Purpose
 
@@ -8,7 +8,7 @@ Public collection of game mods, custom scripts, tweaks, and quality-of-life adju
 
 ## 🕹️ Available Games
 
-- [Resident Evil 7](./resident-evil-7/README.md)
+- [Resident Evil 7](./Resident-evil-7/README.md)
 
 ## 📄 Credits and Licensing
 
@@ -18,7 +18,7 @@ When applicable, the original authors or references are credited in the README o
 
 # 🎮 Mods e Scripts para Jogos
 
-[Read in English](#-game-mods-and-scripts)
+**[Read in English](#-game-mods-and-scripts)**
 
 ## 🎯 Objetivo
 
@@ -26,7 +26,7 @@ Coleção pública de mods, scripts personalizados, tweaks e ajustes de qualidad
 
 ## 🕹️ Jogos Disponíveis
 
-- [Resident Evil 7](./resident-evil-7/README.md)
+- [Resident Evil 7](./Resident-evil-7/README.md)
 
 ## 📄 Créditos e Licenças
 

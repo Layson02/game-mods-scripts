@@ -1,6 +1,8 @@
+<a id="english"></a>
+
 # 🕹️ Resident Evil 7 Mods
 
-[Ler em Português](#-mods-para-resident-evil-7)
+**🌐 [Ler em Português](#portugues)**
 
 ## 📋 Overview
 
@@ -40,9 +42,11 @@ Authors and references:
 
 ---
 
+<a id="portugues"></a>
+
 # 🕹️ Mods para Resident Evil 7
 
-[Read in English](#-resident-evil-7-mods)
+ **[Read in English](#english)**
 
 ## 📋 Visão geral
 
