@@ -104,7 +104,7 @@ re.on_frame(function()
 
     if button_down then
         button_down_since = button_down_since or os.clock()
-        if not button_was_toggled and os.clock() - button_down_since >= 1.5 then
+        if not button_was_toggled and os.clock() - button_down_since >= 1.0 then
             settings.flashlight_on = not settings.flashlight_on
             save()
             button_was_toggled = true
@@ -137,7 +137,7 @@ end)
 re.on_draw_ui(function()
     if not imgui.tree_node("Better Flashlight") then return end
 
-    imgui.text("Hold Xbox B for 1.5 seconds to toggle the flashlight.")
+    imgui.text("Hold Xbox B for toggle the flashlight.")
     imgui.text_colored(settings.flashlight_on and "Currently ON" or "Currently OFF",
         settings.flashlight_on and 0xFF00FF00 or 0xFF888888)
 
