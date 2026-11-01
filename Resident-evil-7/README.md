@@ -12,7 +12,7 @@ Mods, scripts, and quality-of-life adjustments for **Resident Evil 7**, primaril
 
 | Mod | Original Features | My Changes | Version |
 | :--- | :--- | :--- | :--- |
-| `Better Flashlight` | Adjusts the flashlight's brightness, range, and radius, and allows it to be turned on or off. | Added Xbox controller support: hold the **B button** for 1.5 seconds to turn the flashlight on or off. | 1.0 |
+| `Better Flashlight` | Adjusts the flashlight's brightness, range, and radius, and allows it to be turned on or off. | Added Xbox controller support: hold the **B button** for 1 second to turn the flashlight on or off. | 1.0 |
 
 ## 🛠️ Requirements
 
@@ -56,7 +56,7 @@ Mods, scripts e ajustes de qualidade de vida para **Resident Evil 7**, desenvolv
 
 | Mod | Recursos originais | Minhas alterações | Versão |
 | :--- | :--- | :--- | :--- |
-| `Better Flashlight` | Permite ajustar o brilho, o alcance e o raio da lanterna, além de ativá-la ou desativá-la. | Adicionado suporte ao controle Xbox: pressione o **botão B** por 1,5 segundo para ligar ou desligar a lanterna. | 1.0 |
+| `Better Flashlight` | Permite ajustar o brilho, o alcance e o raio da lanterna, além de ativá-la ou desativá-la. | Adicionado suporte ao controle Xbox: pressione o **botão B** por 1 segundo para ligar ou desligar a lanterna. | 1.0 |
 
 ## 🛠️ Requisitos
 
