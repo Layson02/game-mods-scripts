@@ -17,10 +17,11 @@ Collection of utility scripts for automating recurring tasks on Windows. The cur
 
 ## 🛠️ Requirements
 
-- Windows.
 - [FFmpeg](https://ffmpeg.org/) installed and available in the system `PATH`.
 - An AMD GPU with AMF support.
 - `.mp4` files in the same folder where the script is executed.
+
+Tested with FFmpeg `2025-09-25-git-9970dc32bf-essentials_build-www.gyan.dev`.
 
 ## 📥 Installation and Usage
 
@@ -63,6 +64,8 @@ Coleção de scripts utilitários para automatizar tarefas recorrentes no Window
 - [FFmpeg](https://ffmpeg.org/) instalado e disponível no `PATH` do sistema.
 - GPU AMD com suporte a AMF.
 - Arquivos `.mp4` na mesma pasta em que o script for executado.
+
+Testado com o FFmpeg `2025-09-25-git-9970dc32bf-essentials_build-www.gyan.dev`.
 
 ## 📥 Instalação e uso
 
