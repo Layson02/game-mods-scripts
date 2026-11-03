@@ -1,4 +1,4 @@
-# 🎮 Game Mods and Scripts
+# Mods and Scripts
 
 **🌐 [Ler em Português](#-mods-e-scripts-para-jogos)**
 
@@ -16,9 +16,9 @@ When applicable, the original authors or references are credited in the README o
 
 ---
 
-# 🎮 Mods e Scripts para Jogos
+# Mods e Scripts
 
-**[Read in English](#-game-mods-and-scripts)**
+**🌐 [Read in English](#-game-mods-and-scripts)**
 
 ## 🎯 Objetivo
 
