@@ -4,6 +4,8 @@
 
 **🌐 [Ler em Português](#portugues)**
 
+**↩️ [Main README](../README.md)**
+
 ## 📋 Overview
 
 Mods, scripts, and quality-of-life adjustments for **Resident Evil 7**, primarily designed for use with REFramework and the Steam DX12 RT version of the game.
@@ -46,7 +48,9 @@ Authors and references:
 
 # 🕹️ Mods para Resident Evil 7
 
- **[Read in English](#english)**
+ **🌐 [Read in English](#english)**
+
+**↩️ [README principal](../README.md)**
 
 ## 📋 Visão geral
 

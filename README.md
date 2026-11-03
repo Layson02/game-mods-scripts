@@ -10,7 +10,7 @@ Public collection of game mods, custom scripts, tweaks, and quality-of-life adju
 
 - [Resident Evil 7](./Resident-evil-7/README.md)
 
-## 🧰 Utilities
+## 🖥️ Utilities
 
 - [Utility Scripts](./utils/README.md)
 
@@ -32,7 +32,7 @@ Coleção pública de mods, scripts personalizados, tweaks e ajustes de qualidad
 
 - [Resident Evil 7](./Resident-evil-7/README.md)
 
-## 🧰 Utilitários
+## 🖥️ Utilitários
 
 - [Scripts Utilitários](./utils/README.md)
 

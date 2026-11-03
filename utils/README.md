@@ -4,6 +4,8 @@
 
 **🌐 [Ler em Português](#portugues)**
 
+**↩️ [Main README](../README.md)**
+
 ## 📋 Overview
 
 Collection of utility scripts for automating recurring tasks on Windows. The current scripts use **FFmpeg** to compress `.mp4` videos with AMD hardware encoding.
@@ -47,6 +49,8 @@ The scripts use [FFmpeg](https://ffmpeg.org/). The repository's general license 
 # Scripts Utilitários
 
 **🌐 [Read in English](#english)**
+
+**↩️ [README principal](../README.md)**
 
 ## 📋 Visão geral
 
