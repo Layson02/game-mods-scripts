@@ -16,6 +16,7 @@ Collection of utility scripts for automating recurring tasks on Windows. The cur
 | :--- | :--- | :--- | :--- |
 | `comprimir_amf.bat` | Compresses `.mp4` files using FFmpeg and saves them in the `Compactados` folder. | Initial version of the video compression script. | 1.0 |
 | `comprimir_amf v2.bat` | Compresses `.mp4` files using FFmpeg and saves them in the `Compactados` folder. | Adds a processing counter and a summary listing successfully processed files. | 2.0 |
+| `comprimir_amf v3.bat` | Compresses `.mp4`, `.mov`, `.avi`, `.wmv`, and `.webm` files using FFmpeg and saves them in the `Compactados` folder. | Adds support for multiple input formats, CQP quality control, AAC audio encoding, and MP4 compatibility improvements. | 3.0 |
 
 ## 🛠️ Requirements
 
@@ -62,6 +63,7 @@ Coleção de scripts utilitários para automatizar tarefas recorrentes no Window
 | :--- | :--- | :--- | :--- |
 | `comprimir_amf.bat` | Compacta arquivos `.mp4` usando o FFmpeg e salva os arquivos na pasta `Compactados`. | Versão inicial do script de compactação de vídeos. | 1.0 |
 | `comprimir_amf v2.bat` | Compacta arquivos `.mp4` usando o FFmpeg e salva os arquivos na pasta `Compactados`. | Adiciona um contador de processamento e um resumo com os arquivos processados com sucesso. | 2.0 |
+| `comprimir_amf v3.bat` | Compacta arquivos `.mp4`, `.mov`, `.avi`, `.wmv` e `.webm` usando o FFmpeg e salva os arquivos na pasta `Compactados`. | Adiciona suporte a vários formatos de entrada, controle de qualidade CQP, codificação de áudio AAC e melhorias de compatibilidade com MP4. | 3.0 |
 
 ## 🛠️ Requisitos
 
